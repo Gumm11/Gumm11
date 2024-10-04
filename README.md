@@ -3,7 +3,7 @@
 
   # Hi there 👋 I'm **Vovella!**
   
-  An Informatics student at **Universitas Pelita Harapan** and one of the **Machine Learning Cohort at Bangkit Academy 2024 Batch 2**
+  A 3rd year Informatics student at **Universitas Pelita Harapan** and one of the **Machine Learning Cohort at Bangkit Academy 2024 Batch 2**
 </div>
 
 ---
